@@ -191,6 +191,7 @@
   },
   "defaultProject": "storefront",
   "cli": {
+    "analytics": "3831c337-cdd8-4acb-a29a-602ba973eafd",
     "defaultCollection": "@angular-eslint/schematics"
   }
 }
